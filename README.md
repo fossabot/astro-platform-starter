@@ -20,6 +20,7 @@ All commands are run from the root of the project, from a terminal:
 ## Deploying to Netlify
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fastro-platform-starter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fastro-platform-starter?ref=badge_shield)
 
 ## Developing Locally
 
@@ -41,3 +42,7 @@ netlify link
 ```
 npm run dev
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fastro-platform-starter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fastro-platform-starter?ref=badge_large)
